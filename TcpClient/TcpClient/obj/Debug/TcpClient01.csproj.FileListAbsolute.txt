@@ -1,0 +1,9 @@
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.csprojResolveAssemblyReference.cache
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.csproj.GenerateResource.Cache
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.Form1.resources
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\bin\Debug\TcpClient01.exe.config
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\bin\Debug\TcpClient01.exe
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\bin\Debug\TcpClient01.pdb
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.Properties.Resources.resources
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.exe
+D:\Sudarshan\C#Projects\TcpClient\TcpClient\obj\Debug\TcpClient01.pdb
